@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="~/css/style.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="nav">
+        <p><a href="/">Home</a> | Projects | <a href="/contact">Contact</a></p>
+    </div>
+    <div class="title">
+        <h1>Here are some of the projects of mine!</h1>
+    </div>
+    <div class="proj">
+        <div class="cont">
+            @{
+                int[] projects = new int[10];
+                for (int i = 0; i < projects.Length; i++)
+                {
+                    <div class="card">
+                        <img src="~/img/icon.png" alt="" width="128" height="128">
+                        <div style="margin-left: 1rem;">
+                            <h1>Title</h1>
+                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab soluta commodi rerum, enim, quis perferendis illum laborum ex perspiciatis eius consequatur quisquam dolore deleniti corrupti? Porro omnis mollitia doloremque totam.</p>
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+
+</body>
+
+</html>

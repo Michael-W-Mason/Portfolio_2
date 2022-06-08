@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "lKt3i2VsN4Wtesnp37BquBq+pBKwNqDoemELWFZEuDk=",
+  "Source": "Portfolio_1",
+  "BasePath": "_content/Portfolio_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio_1\\wwwroot",
+      "Source": "Portfolio_1",
+      "ContentRoot": "C:\\Users\\micha\\OneDrive\\Documents\\Coding Dojo\\Notes\\Portfolio_2\\wwwroot\\",
+      "BasePath": "_content/Portfolio_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\micha\\OneDrive\\Documents\\Coding Dojo\\Notes\\Portfolio_2\\wwwroot\\css\\style.css",
+      "SourceId": "Portfolio_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\micha\\OneDrive\\Documents\\Coding Dojo\\Notes\\Portfolio_2\\wwwroot\\",
+      "BasePath": "_content/Portfolio_1",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\micha\\OneDrive\\Documents\\Coding Dojo\\Notes\\Portfolio_2\\wwwroot\\img\\icon.png",
+      "SourceId": "Portfolio_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\micha\\OneDrive\\Documents\\Coding Dojo\\Notes\\Portfolio_2\\wwwroot\\",
+      "BasePath": "_content/Portfolio_1",
+      "RelativePath": "img/icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\icon.png"
+    }
+  ]
+}
